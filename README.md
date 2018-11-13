@@ -2,6 +2,14 @@
 
 *A collection of tutorials and exercises for learning the basics of Python*
 
+## Getting started
+
+- All lessons are described in .md files in `lessons` directory
+- Every lesson has its own topic sections
+- Almost every topic section has an external link to a tutorial with more learning material. These tutorials are *mandatory* to understand the given topic.
+- Some of the topics have exercises  - they're here for you to test your skills from that topic
+- At the end of the lesson there's 1 or more "Final exercise". By completing the exercises, you finish the lesson and can continue to the next one.
+
 ## Contents
 
 1. [Starting with maths](/lessons/1-maths.md)
