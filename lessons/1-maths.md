@@ -40,9 +40,9 @@
 - You can ask user to type in some text with `input()` statement
 - By default, `input()` will return a **string** type text value
 - To get a **number** out of `input()` use **casting**:
-  - `z = int(input())` *(user typed "3")* - `z` will be `3`
-  - `z = float(input())` *(user typed "3")* - `z` will be `3.0`
-  - `w = float(input())` *(user typed "4.2")* - `w` will be `4.2`
+  - `z = int(input())` *(user typed "3")* - `z` will be `3` (integer)
+  - `z = float(input())` *(user typed "3")* - `z` will be `3.0` (floating point number)
+  - `w = float(input())` *(user typed "4.2")* - `w` will be `4.2` (floating point number)
 - **Note**: For better UX, you should first inform the user, what kind of input is needed, e.g.:
 
 ```python
@@ -53,7 +53,7 @@ age = int(input())
 #### Exercise 3
 
 - Get user entered **integer** and save it to variable `x`
-- Assign `x` to `x` multiplied by `4`
+- Assign `x` to `x * 4`
 - Print `x` to the console
 
 ## 1.4. Numbers
