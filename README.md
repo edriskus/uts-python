@@ -13,7 +13,7 @@
 ## Contents
 
 1. [Starting with maths](/lessons/1-maths.md)
-2. [WIP] [Working with text](/lessons/2-text.md)
+2. [Working with text](/lessons/2-text.md)
 3. [WIP] [Getting logical](/lessons/3-logic.md)
 4. [WIP] [Lists and looping](/lessons/4-lists.md)
 5. [WIP] [Reusing code with Functions](/lessons/5-functions.md)
