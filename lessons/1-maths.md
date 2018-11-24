@@ -21,7 +21,7 @@
 
 ## 1.3. Variables
 
-> In computer programming, variables are used to store information to be referenced and used by programs. 
+> In computer programming, variables are used to store information to be referenced and used by programs.
 
 - Creating variables
 - Setting variables
